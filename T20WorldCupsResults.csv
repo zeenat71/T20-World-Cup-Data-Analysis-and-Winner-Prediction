@@ -1,0 +1,269 @@
+Year,Team 1,Team 2,Winner,WC winner,Venue,Date,Match Type,Host Nation
+2007,WI,SA,SA,IND,Johannesburg,11 Sep,League Stage,SA
+2007,KEN,NZ,NZ,IND,Durban,12 Sep,League Stage,SA
+2007,PAK,SCO,PAK,IND,Durban,12 Sep,League Stage,SA
+2007,AUS,ZIM,ZIM,IND,Cape Town,12 Sep,League Stage,SA
+2007,WI,BAN,BAN,IND,Johannesburg,13 Sep,League Stage,SA
+2007,ENG,ZIM,ENG,IND,Cape Town,13 Sep,League Stage,SA
+2007,IND,SCO,NA,IND,Durban,13 Sep,League Stage,SA
+2007,KEN,SL,SL,IND,Johannesburg,14 Sep,League Stage,SA
+2007,ENG,AUS,AUS,IND,Cape Town,14 Sep,League Stage,SA
+2007,IND,PAK,IND,IND,Durban,14 Sep,League Stage,SA
+2007,NZ,SL,SL,IND,Johannesburg,15 Sep,League Stage,SA
+2007,BAN,SA,SA,IND,Cape Town,15 Sep,League Stage,SA
+2007,IND,NZ,NZ,IND,Johannesburg,16 Sep,League Stage,SA
+2007,BAN,AUS,AUS,IND,Cape Town,16 Sep,League Stage,SA
+2007,SA,ENG,SA,IND,Cape Town,16 Sep,League Stage,SA
+2007,PAK,SL,PAK,IND,Johannesburg,17 Sep,League Stage,SA
+2007,NZ,ENG,NZ,IND,Durban,18 Sep,League Stage,SA
+2007,AUS,PAK,PAK,IND,Johannesburg,18 Sep,League Stage,SA
+2007,SL,BAN,SL,IND,Johannesburg,18 Sep,League Stage,SA
+2007,NZ,SA,SA,IND,Durban,19 Sep,League Stage,SA
+2007,IND,ENG,IND,IND,Durban,19 Sep,League Stage,SA
+2007,AUS,SL,AUS,IND,Cape Town,20 Sep,League Stage,SA
+2007,PAK ,BAN,PAK,IND,Cape Town,20 Sep,League Stage,SA
+2007,IND,SA,IND,IND,Durban,20 Sep,League Stage,SA
+2007,NZ,PAK,PAK,IND,Cape Town,22 Sep,Semi-Finals,SA
+2007,IND,AUS,IND,IND,Durban,22 Sep,Semi-Finals,SA
+2007,IND,PAK,IND,IND,Johannesburg,24 Sep,Final,SA
+2009,ENG,NED,NED,PAK,Lord's,5 Jun,League Stage,ENG
+2009,SCO,NZ,NZ,PAK,Oval,6 Jun,League Stage,ENG
+2009,WI,AUS,WI,PAK,Oval,6 Jun,League Stage,ENG
+2009,IND,BAN,IND,PAK,Nottingham,6 Jun,League Stage,ENG
+2009,SA,SCO,SA,PAK,Oval,7 Jun,League Stage,ENG
+2009,PAK,ENG,ENG,PAK,Oval,7 Jun,League Stage,ENG
+2009,BAN,IRE,IRE,PAK,Nottingham,8 Jun,League Stage,ENG
+2009,AUS,SL,SL,PAK,Nottingham,8 Jun,League Stage,ENG
+2009,PAK,NED,PAK,PAK,Lord's,9 Jun,League Stage,ENG
+2009,SA,NZ,SA,PAK,Lord's,9 Jun,League Stage,ENG
+2009,SL,WI,SL,PAK,Nottingham,10 Jun,League Stage,ENG
+2009,IND,IRE,IND,PAK,Nottingham,10 Jun,League Stage,ENG
+2009,NZ,IRE,NZ,PAK,Nottingham,11 Jun,League Stage,ENG
+2009,ENG,SA,SA,PAK,Nottingham,11 Jun,League Stage,ENG
+2009,SL,PAK,SL,PAK,Lord's,12 Jun,League Stage,ENG
+2009,IND,WI,WI,PAK,Lord's,12 Jun,League Stage,ENG
+2009,SA,WI,SA,PAK,Oval,13 Jun,League Stage,ENG
+2009,PAK,NZ,PAK,PAK,Oval,13 Jun,League Stage,ENG
+2009,SL,IRE,SL,PAK,Lord's,14 Jun,League Stage,ENG
+2009,IND,ENG,ENG,PAK,Lord's,14 Jun,League Stage,ENG
+2009,PAK,IRE,PAK,PAK,Oval,15 Jun,League Stage,ENG
+2009,WI,ENG,ENG,PAK,Oval,15 Jun,League Stage,ENG
+2009,SL,NZ,SL,PAK,Nottingham,16 Jun,League Stage,ENG
+2009,IND,SA,SA,PAK,Nottingham,16 Jun,League Stage,ENG
+2009,PAK,SA,PAK,PAK,Nottingham,18 Jun,Semi-Finals,ENG
+2009,SL,WI,SL,PAK,Oval,19 Jun,Semi-Finals,ENG
+2009,PAK,SL,PAK,PAK,Lord's,20 Jun,Final,ENG
+2010,SL,NZ,NZ,ENG,Providence,30 Apr,League Stage,WI
+2010,WI,IRE,WI,ENG,Providence,1 May,League Stage,WI
+2010,IND,AFG,IND,ENG,Gros Islet,1 May,League Stage,WI
+2010,PAK,BAN,PAK,ENG,Gros Islet,1 May,League Stage,WI
+2010,IND,SA,IND,ENG,Gros Islet,2 May,League Stage,WI
+2010,AUS,PAK,AUS,ENG,Gros Islet,2 May,League Stage,WI
+2010,SL,ZIM,SL,ENG,Providence,3 May,League Stage,WI
+2010,ENG,WI,WI,ENG,Providence,3 May,League Stage,WI
+2010,NZ,ZIM,NZ,ENG,Providence,4 May,League Stage,WI
+2010,ENG,IRE,NA,ENG,Providence,4 May,League Stage,WI
+2010,AUS,BAN,AUS,ENG,Bridgetown,5 May,League Stage,WI
+2010,SA,AFG,SA,ENG,Bridgetown,6 May,League Stage,WI
+2010,ENG,PAK,ENG,ENG,Bridgetown,6 May,League Stage,WI
+2010,SA,NZ,SA,ENG,Bridgetown,6 May,League Stage,WI
+2010,IND,AUS,AUS,ENG,Bridgetown,7 May,League Stage,WI
+2010,SL,WI,SL,ENG,Bridgetown,7 May,League Stage,WI
+2010,NZ,PAK,NZ,ENG,Bridgetown,8 May,League Stage,WI
+2010,ENG,SA,ENG,ENG,Bridgetown,8 May,League Stage,WI
+2010,WI,IND,WI,ENG,Bridgetown,9 May,League Stage,WI
+2010,AUS,SL,AUS,ENG,Bridgetown,9 May,League Stage,WI
+2010,PAK,SA,PAK,ENG,Gros Islet,10 May,League Stage,WI
+2010,ENG,NZ,ENG,ENG,Gros Islet,10 May,League Stage,WI
+2010,SL,IND,SL,ENG,Gros Islet,11 May,League Stage,WI
+2010,AUS,WI,AUS,ENG,Gros Islet,12 May,League Stage,WI
+2010,ENG,SL,ENG,ENG,Gros Islet,13 May,Semi-Finals,WI
+2010,AUS,PAK,AUS,ENG,Gros Islet,14 May,Semi-Finals,WI
+2010,ENG,AUS,ENG,ENG,Bridgetown,16 May,Final,WI
+2012,SL,ZIM,SL,WI,Hambantota,18 Sep,League Stage,SL
+2012,AUS,IRE,AUS,WI,Colombo,19 Sep,League Stage,SL
+2012,IND,AFG,IND,WI,Colombo,19 Sep,League Stage,SL
+2012,SA,ZIM,SA,WI,Hambantota,20 Sep,League Stage,SL
+2012,NZ,BAN,NZ,WI,Pallekele,21 Sep,League Stage,SL
+2012,ENG,AFG,ENG,WI,Colombo,21 Sep,League Stage,SL
+2012,SA,SL,SA,WI,Hambantota,22 Sep,League Stage,SL
+2012,AUS,WI,AUS,WI,Colombo,22 Sep,League Stage,SL
+2012,PAK,NZ,PAK,WI,Pallekele,23 Sep,League Stage,SL
+2012,IND,ENG,IND,WI,Colombo,23 Sep,League Stage,SL
+2012,IRE,WI,NA,WI,Colombo,24 Sep,League Stage,SL
+2012,BAN,PAK,PAK,WI,Pallekele,25 Sep,League Stage,SL
+2012,NZ,SL,SL,WI,Pallekele,27 Sep,League Stage,SL
+2012,WI,ENG,WI,WI,Pallekele,27 Sep,League Stage,SL
+2012,SA,PAK,PAK,WI,Colombo,28 Sep,League Stage,SL
+2012,AUS,IND,AUS,WI,Colombo,28 Sep,League Stage,SL
+2012,ENG,NZ,ENG,WI,Pallekele,29 Sep,League Stage,SL
+2012,SL,WI,SL,WI,Pallekele,29 Sep,League Stage,SL
+2012,SA,AUS,AUS,WI,Colombo,30 Sep,League Stage,SL
+2012,IND,PAK,IND,WI,Colombo,30 Sep,League Stage,SL
+2012,WI,NZ,WI,WI,Pallekele,1 Oct,League Stage,SL
+2012,SL,ENG,SL,WI,Pallekele,1 Oct,League Stage,SL
+2012,PAK ,AUS,PAK,WI,Colombo,2 Oct,League Stage,SL
+2012,IND ,SA,IND,WI,Colombo,2 Oct,League Stage,SL
+2012,SL,PAK,SL,WI,Colombo,4 Oct,Semi-Finals,SL
+2012,WI,AUS,AUS,WI,Colombo,5 Oct,Semi-Finals,SL
+2012,SL,WI,WI,WI,Colombo,7 Oct,Final,SL
+2014,BAN,AFG,BAN,SL,Dhaka,16 Mar,League Stage,BAN
+2014,NEP,HK,NEP,SL,Chattogram,16 Mar,League Stage,BAN
+2014,IRE,ZIM,IRE,SL,Sylhet,17 Mar,League Stage,BAN
+2014,NED,UAE,NED,SL,Sylhet,17 Mar,League Stage,BAN
+2014,AFG,HK,AFG,SL,Chattogram,18 Mar,League Stage,BAN
+2014,BAN,NEP,BAN,SL,Chattogram,18 Mar,League Stage,BAN
+2014,ZIM,NED,ZIM,SL,Sylhet,19 Mar,League Stage,BAN
+2014,IRE,UAE,IRE,SL,Sylhet,19 Mar,League Stage,BAN
+2014,NEP,AFG,NEP,SL,Chattogram,20 Mar,League Stage,BAN
+2014,BAN,HK,HK,SL,Chattogram,20 Mar,League Stage,BAN
+2014,ZIM,UAE,ZIM,SL,Sylhet,21 Mar,League Stage,BAN
+2014,IRE,NED,NED,SL,Sylhet,21 Mar,League Stage,BAN
+2014,IND,PAK,IND,SL,Dhaka,21 Mar,League Stage,BAN
+2014,SL,SA,SL,SL,Chattogram,22 Mar,League Stage,BAN
+2014,ENG,NZ,NZ,SL,Chattogram,22 Mar,League Stage,BAN
+2014,PAK,AUS,PAK,SL,Dhaka,23 Mar,League Stage,BAN
+2014,IND,WI,IND,SL,Dhaka,23 Mar,League Stage,BAN
+2014,SA,NZ,SA,SL,Chattogram,24 Mar,League Stage,BAN
+2014,SL,NED,SL,SL,Chattogram,24 Mar,League Stage,BAN
+2014,WI,BAN,WI,SL,Dhaka,25 Mar,League Stage,BAN
+2014,SA,NED,SA,SL,Chattogram,27 Mar,League Stage,BAN
+2014,SL,ENG,ENG,SL,Chattogram,27 Mar,League Stage,BAN
+2014,WI,AUS,WI,SL,Dhaka,28 Mar,League Stage,BAN
+2014,IND,BAN,IND,SL,Dhaka,28 Mar,League Stage,BAN
+2014,NZ,NED,NZ,SL,Chattogram,29 Mar,League Stage,BAN
+2014,SA,ENG,SA,SL,Chattogram,29 Mar,League Stage,BAN
+2014,PAK,BAN,PAK,SL,Dhaka,30 Mar,League Stage,BAN
+2014,IND,AUS,IND,SL,Dhaka,30 Mar,League Stage,BAN
+2014,NED,ENG,NED,SL,Chattogram,31 Mar,League Stage,BAN
+2014,SL,NZ,SL,SL,Chattogram,31 Mar,League Stage,BAN
+2014,AUS,BAN,AUS,SL,Dhaka,1 Apr,League Stage,BAN
+2014,PAK,WI,WI,SL,Dhaka,1 Apr,League Stage,BAN
+2014,SL,WI,SL,SL,Dhaka,3 Apr,Semi-Finals,BAN
+2014,IND,SA,IND,SL,Dhaka,4 Apr,Semi-Finals,BAN
+2014,IND,SL,SL,SL,Dhaka,7 Apr,Final,BAN
+2016,ZIM,HK,ZIM,WI,Nagpur,8 Mar,League Stage,IND
+2016,AFG,SCO,AFG,WI,Nagpur,8 Mar,League Stage,IND
+2016,BAN,NED,BAN,WI,Dharamsala,9 Mar,League Stage,IND
+2016,OMAN,IRE,OMAN,WI,Dharamsala,9 Mar,League Stage,IND
+2016,ZIM,SCO,ZIM,WI,Nagpur,10 Mar,League Stage,IND
+2016,AFG,HK,AFG,WI,Nagpur,10 Mar,League Stage,IND
+2016,NED,OMAN,NA,WI,Dharamsala,11 Mar,League Stage,IND
+2016,BAN,IRE,NA,WI,Dharamsala,11 Mar,League Stage,IND
+2016,AFG,ZIM,AFG,WI,Nagpur,12 Mar,League Stage,IND
+2016,SCO,HK,SCO,WI,Nagpur,12 Mar,League Stage,IND
+2016,NED,IRE,NED,WI,Dharamsala,13 Mar,League Stage,IND
+2016,BAN,OMAN,BAN,WI,Dharamsala,13 Mar,League Stage,IND
+2016,NZ,IND,NZ,WI,Nagpur,15 Mar,League Stage,IND
+2016,PAK,BAN,PAK,WI,Kolkata,16 Mar,League Stage,IND
+2016,ENG,WI,WI,WI,Mumbai,16 Mar,League Stage,IND
+2016,AFG,SL,SL,WI,Kolkata,17 Mar,League Stage,IND
+2016,NZ,AUS,NZ,WI,Dharamsala,18 Mar,League Stage,IND
+2016,ENG,SA,ENG,WI,Mumbai,18 Mar,League Stage,IND
+2016,IND,PAK,IND,WI,Kolkata,19 Mar,League Stage,IND
+2016,AFG,SA,SA,WI,Mumbai,20 Mar,League Stage,IND
+2016,WI,SL,WI,WI,Bengaluru,20 Mar,League Stage,IND
+2016,BAN,AUS,AUS,WI,Bengaluru,21 Mar,League Stage,IND
+2016,NZ,PAK,NZ,WI,Mohali,22 Mar,League Stage,IND
+2016,AFG,ENG,ENG,WI,Delhi,23 Mar,League Stage,IND
+2016,IND,BAN,IND,WI,Bengaluru,23 Mar,League Stage,IND
+2016,AUS,PAK,AUS,WI,Mohali,25 Mar,League Stage,IND
+2016,WI,SA,WI,WI,Nagpur,25 Mar,League Stage,IND
+2016,NZ,BAN,NZ,WI,Kolkata,26 Mar,League Stage,IND
+2016,ENG,SL,ENG,WI,Delhi,26 Mar,League Stage,IND
+2016,WI,AFG,AFG,WI,Nagpur,27 Mar,League Stage,IND
+2016,IND,AUS,IND,WI,Mohali,27 Mar,League Stage,IND
+2016,SA,SL,SA,WI,Delhi,28 Mar,League Stage,IND
+2016,NZ,ENG,ENG,WI,Delhi,30 Mar,Semi-Finals,IND
+2016,IND,WI,WI,WI,Mumbai,31 Mar,Semi-Finals,IND
+2016,ENG,WI,ENG,WI,Kolkata,3 Apr,Final,IND
+2021,OMAN,PNG,OMAN,AUS,Al Amerat,17 Oct,League Stage,UAE
+2021,SCO,BAN,SCO,AUS,Al Amerat,17 Oct,League Stage,UAE
+2021,IRE,NED,IRE,AUS,Abu Dhabi,18 Oct,League Stage,UAE
+2021,SL,NAM,SL,AUS,Abu Dhabi,18 Oct,League Stage,UAE
+2021,SCO,PNG,SCO,AUS,Al Amerat,19 Oct,League Stage,UAE
+2021,BAN,OMAN,BAN,AUS,Al Amerat,19 Oct,League Stage,UAE
+2021,NAM,NED,NAM,AUS,Abu Dhabi,20 Oct,League Stage,UAE
+2021,SL,IRE,SL,AUS,Abu Dhabi,20 Oct,League Stage,UAE
+2021,BAN,PNG,BAN,AUS,Al Amerat,21 Oct,League Stage,UAE
+2021,OMAN,SCO,SCO,AUS,Al Amerat,21 Oct,League Stage,UAE
+2021,IRE,NAM,NAM,AUS,Sharjah,22 Oct,League Stage,UAE
+2021,NED,SL,SL,AUS,Sharjah,22 Oct,League Stage,UAE
+2021,AUS,SA,AUS,AUS,Abu Dhabi,23 Oct,League Stage,UAE
+2021,WI,ENG,ENG,AUS,Dubai,23 Oct,League Stage,UAE
+2021,SL,BAN,SL,AUS,Sharjah,24 Oct,League Stage,UAE
+2021,PAK,IND,PAK,AUS,Dubai,24 Oct,League Stage,UAE
+2021,AFG,SCO,AFG,AUS,Sharjah,25 Oct,League Stage,UAE
+2021,WI,SA,SA,AUS,Dubai,26 Oct,League Stage,UAE
+2021,PAK,NZ,PAK,AUS,Sharjah,26 Oct,League Stage,UAE
+2021,ENG,BAN,ENG,AUS,Abu Dhabi,27 Oct,League Stage,UAE
+2021,NAM,SCO,NAM,AUS,Abu Dhabi,27 Oct,League Stage,UAE
+2021,SL,AUS,AUS,AUS,Dubai,28 Oct,League Stage,UAE
+2021,WI,BAN,WI,AUS,Sharjah,29 Oct,League Stage,UAE
+2021,AFG,PAK,PAK,AUS,Dubai,29 Oct,League Stage,UAE
+2021,SA,SL,SA,AUS,Sharjah,30 Oct,League Stage,UAE
+2021,ENG,AUS,AUS,AUS,Dubai,30 Oct,League Stage,UAE
+2021,AFG,NAM,AFG,AUS,Abu Dhabi,31 Oct,League Stage,UAE
+2021,IND,NZ,NZ,AUS,Dubai,31 Oct,League Stage,UAE
+2021,ENG,SL,ENG,AUS,Sharjah,1 Nov,League Stage,UAE
+2021,SA,BAN,SA,AUS,Abu Dhabi,2 Nov,League Stage,UAE
+2021,NAM,PAK,PAK,AUS,Abu Dhabi,2 Nov,League Stage,UAE
+2021,NZ,SCO,NZ,AUS,Dubai,3 Nov,League Stage,UAE
+2021,AFG,IND,IND,AUS,Abu Dhabi,3 Nov,League Stage,UAE
+2021,BAN,AUS,AUS,AUS,Dubai,4 Nov,League Stage,UAE
+2021,WI,SL,SL,AUS,Abu Dhabi,4 Nov,League Stage,UAE
+2021,NZ,NAM,NZ,AUS,Sharjah,5 Nov,League Stage,UAE
+2021,IND,SCO,IND,AUS,Dubai,5 Nov,League Stage,UAE
+2021,AUS,WI,AUS,AUS,Abu Dhabi,6 Nov,League Stage,UAE
+2021,ENG,SA,SA,AUS,Sharjah,6 Nov,League Stage,UAE
+2021,NZ,AFG,NZ,AUS,Abu Dhabi,7 Nov,League Stage,UAE
+2021,PAK ,SCO,PAK,AUS,Sharjah,7 Nov,League Stage,UAE
+2021,IND,NAM,IND,AUS,Dubai,8 Nov,League Stage,UAE
+2021,NZ,ENG,NZ,AUS,Abu Dhabi,10 Nov,Semi-Finals,UAE
+2021,AUS,PAK,AUS,AUS,Dubai,11 Nov,Semi-Finals,UAE
+2021,NZ,AUS,AUS,AUS,Dubai,14 Nov,Final,UAE
+2022,SL,NAM,NAM,ENG,Geelong,16 Oct,League Stage,AUS
+2022,UAE,NED,NED,ENG,Geelong,16 Oct,League Stage,AUS
+2022,WI,SCO,SCO,ENG,Hobart,17 Oct,League Stage,AUS
+2022,IRE,ZIM,ZIM,ENG,Hobart,17 Oct,League Stage,AUS
+2022,NAM,NED,NED,ENG,Geelong,18 Oct,League Stage,AUS
+2022,SL,UAE,SL,ENG,Geelong,18 Oct,League Stage,AUS
+2022,IRE,SCO,IRE,ENG,Hobart,19 Oct,League Stage,AUS
+2022,WI,ZIM,WI,ENG,Hobart,19 Oct,League Stage,AUS
+2022,NED,SL,SL,ENG,Geelong,20 Oct,League Stage,AUS
+2022,UAE,NAM,UAE,ENG,Geelong,20 Oct,League Stage,AUS
+2022,WI,IRE,IRE,ENG,Hobart,21 Oct,League Stage,AUS
+2022,ZIM,SCO,ZIM,ENG,Hobart,21 Oct,League Stage,AUS
+2022,NZ,AUS,NZ,ENG,Sydney,22 Oct,League Stage,AUS
+2022,ENG,AFG,ENG,ENG,Perth,22 Oct,League Stage,AUS
+2022,SL,IRE,SL,ENG,Hobart,23 Oct,League Stage,AUS
+2022,IND,PAK,IND,ENG,Melbourne,23 Oct,League Stage,AUS
+2022,BAN,NED,BAN,ENG,Hobart,24 Oct,League Stage,AUS
+2022,SA,ZIM,NA,ENG,Hobart,24 Oct,League Stage,AUS
+2022,AUS,SL,AUS,ENG,Perth,25 Oct,League Stage,AUS
+2022,ENG,IRE,IRE,ENG,Melbourne,26 Oct,League Stage,AUS
+2022,NZ,AFG,NA,ENG,melbourne,26 Oct,League Stage,AUS
+2022,SA,BAN,SA,ENG,Sydney,27 Oct,League Stage,AUS
+2022,IND,NED,IND,ENG,Sydney,27 Oct,League Stage,AUS
+2022,PAK,ZIM,ZIM,ENG,Perth,27 Oct,League Stage,AUS
+2022,AFG,IRE,NA,ENG,melbourne,28 Oct,League Stage,AUS
+2022,ENG,AUS,NA,ENG,melbourne,28 Oct,League Stage,AUS
+2022,NZ,SL,NZ,ENG,Sydney,29 Oct,League Stage,AUS
+2022,BAN,ZIM,BAN,ENG,Brisbane,30 Oct,League Stage,AUS
+2022,PAK,NED,PAK,ENG,Perth,30 Oct,League Stage,AUS
+2022,IND,SA,SA,ENG,Perth,30 Oct,League Stage,AUS
+2022,AUS,IRE,AUS,ENG,Brisbane,31 Oct,League Stage,AUS
+2022,AFG,SL,SL,ENG,Brisbane,1 Nov,League Stage,AUS
+2022,ENG,NZ,ENG,ENG,Brisbane,1 Nov,League Stage,AUS
+2022,ZIM,NED,NED,ENG,Adelaide,2 Nov,League Stage,AUS
+2022,IND,BAN,IND,ENG,Adelaide,2 Nov,League Stage,AUS
+2022,PAK,SA,PAK,ENG,Sydney,3 Nov,League Stage,AUS
+2022,NZ,IRE,NZ,ENG,Adelaide,4 Nov,League Stage,AUS
+2022,AUS,AFG,AUS,ENG,Adelaide,4 Nov,League Stage,AUS
+2022,ENG,SL,ENG,ENG,Sydney,5 Nov,League Stage,AUS
+2022,SA,NED,NED,ENG,Adelaide,6 Nov,League Stage,AUS
+2022,PAK,BAN,PAK,ENG,Adelaide,6 Nov,League Stage,AUS
+2022,IND,ZIM,IND,ENG,melbourne,6 Nov,League Stage,AUS
+2022,PAK,NZ,PAK,ENG,sydney,9 Nov,Semi-Finals,AUS
+2022,IND,ENG,ENG,ENG,Adelaide,10 Nov,Semi-Finals,AUS
+2022,ENG,PAK,ENG,ENG,melbourne,13 Nov,Final,AUS
